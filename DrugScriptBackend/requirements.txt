@@ -1,0 +1,7 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pymongo
+pydantic
+firebase_admin
+python-multipart==0.0.6
+python-dotenv==1.0.0
